@@ -5,7 +5,7 @@
 Live on: https://optimistic-pasteur-b43390.netlify.app/
 
 ## Technologies
-C React
+* React
 * Java Script
 * Bootstrap
 
@@ -24,6 +24,7 @@ List of features ready and TODOs for future development
 Project is: Minor project ("Completed")
 
 ## Contact
-``` Munny Kumar ``` - Software Developer Engineer
+Munny Kumar- Software Developer Engineer
 <br/>
-``` munny231197@gmail.com ```
+<br/>
+munny231197@gmail.com
