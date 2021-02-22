@@ -21,7 +21,7 @@ List of features ready and TODOs for future development
 *  Store persistent data
 
 ## Status
-Project is: Minor project ("Completed")
+Minor project: Completed
 
 ## Contact
 Munny Kumar- Software Developer Engineer
